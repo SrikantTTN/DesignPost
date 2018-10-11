@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LayoutDesign</string>
+    <string name="ansContent">The greatest fried chicken sandwiches in New York City. </string>
+    <string name="ansHeading">Green Salad with extra sauces @Commodore</string>
+    <string name="question">Where should I eat an amazing dinner in Williamsburg?</string>
+    <string name="askedAnd">20 Asked 56 Answered</string>
+    <string name="address">Brooklyn, New York</string>
+    <string name="personName">Jessica Norman</string>
+</resources>
